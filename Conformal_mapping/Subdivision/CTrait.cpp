@@ -1,0 +1,3 @@
+#include "CTrait.h"
+
+

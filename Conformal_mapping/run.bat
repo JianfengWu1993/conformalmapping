@@ -1,0 +1,1 @@
+.\Subdivision\Debug\Subdivision.exe .\Data\brain.obj .\Data\brain1.obj 
